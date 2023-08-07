@@ -46,8 +46,8 @@ function AuthModal() {
           variables: {
             default: {
               colors: {
-                brand: "#404040",
-                brandAccent: "#22c55e",
+                brand: "hsl(153 60.0% 30.0%)",
+                brandAccent: "hsl(154 54.8% 35.1%)",
               },
             },
           },
